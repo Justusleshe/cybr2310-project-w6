@@ -24,3 +24,4 @@ This project is a coffee shop website built for CYBR 2310. It showcases a small 
 - Business information and hours
 - Featured menu items
 - Clean UI design
+<img width="1510" height="906" alt="image" src="https://github.com/user-attachments/assets/3ef10af1-f2f4-4e67-942e-2ff934f8cd86" />
